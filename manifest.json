@@ -3,6 +3,7 @@
   "short_name": "HabitFlow",
   "description": "Track your daily habits, streaks, and monthly progress",
   "start_url": "/index.html",
+  "scope"= "/",
   "display": "standalone",
   "orientation": "portrait",
   "background_color": "#0f0f14",
